@@ -1,5 +1,13 @@
-#myrow{
-  background-color:blue;
-  display: grid;
-  grid-template-columns: 1fr 1fr;
+#headertext{
+  background-color: #094053;
+}
+#myh1{
+  color: white;
+}
+#myparagraph{
+  color:#b3a2a2;
+}
+#mybtn{
+  background-color: blue;
+  border-radius:30px;
 }
