@@ -1,5 +1,7 @@
 #headertext{
   background-color: #094053;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
 }
 #myh1{
   color: white;
